@@ -1,12 +1,12 @@
-#伺服器是如何處理請求
+# 伺服器是如何處理請求
 
-##難度：
+## 難度：
 簡易
 
-##目標：
+## 目標：
 了解伺服器收到請求後的回覆
 
-##專案：
+## 專案：
 <https://github.com/yanhsu/intern-tutorial/commit/4b7a52b0bbe2a9de42ac08401277a3bb994b39a5>
 
 ## 練習：
